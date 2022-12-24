@@ -1,7 +1,4 @@
 
-## Tabela de conteudo
-
-
 Tabela de conteudo
 =================
 
