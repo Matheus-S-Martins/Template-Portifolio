@@ -1,7 +1,3 @@
-
-Tabela de conteudo
-=================
-
   * [templete de portifólio](#templete-de-portifólio)
   * [demonstração](#demonstração)
   * [funcionalidades](#funcionalidades)
