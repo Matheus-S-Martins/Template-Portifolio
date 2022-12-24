@@ -1,0 +1,66 @@
+.Container_menu{
+    background-color: #201c1c;
+    display: flex;
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    width: -webkit-fill-available;
+}
+
+.Logo{
+    width: 50%;
+    margin-left: 15px;
+}
+
+.Logo a{
+    
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+}
+
+.Logo a:visited{
+    color: #0086e7;
+}
+
+.Logo a:hover{
+    filter: brightness(90%);
+}
+
+.logo a{
+    justify-content: center;
+}
+
+.Link_logo h2{
+    margin: initial;
+}
+
+.Logo p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.Menu{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: end;
+}
+
+.Menu a{
+    
+    font-size: 26px;
+    margin-right: 25px;
+    text-decoration: none;
+    color: #0086e7;
+}
+
+.Menu a:visited{
+    color: #0086e7;
+}
+
+.Menu a:hover{
+    filter: brightness(90%);
+}
